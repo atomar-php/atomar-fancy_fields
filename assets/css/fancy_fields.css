@@ -1,0 +1,16 @@
+.fancy-fields-character-count {
+  position: relative;
+  z-index: 999;
+  visibility: visible;
+  font-size: 11px;
+  margin-bottom: -17px;
+  margin-left: -5px;
+  font-family: arial;
+  top: 8px;
+  right: 2px;
+  pointer-events: none;
+}
+
+.fancy-fields-character-count-field:focus {
+  padding-right: 36px;
+}
