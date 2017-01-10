@@ -1,6 +1,6 @@
 {
   "name": "fancy_fields",
-  "version": "1.0.0",
-  "atomar_version": "0.2",
+  "version": "1.0.1",
+  "atomar_version": "0.2.*",
   "description": "A fancy input field"
 }
